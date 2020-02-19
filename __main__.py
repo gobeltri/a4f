@@ -1,4 +1,4 @@
-# virtualenv virtualenv
+# python3 -m venv virtualenv
 # source virtualenv/bin/activate
 # pip install requests woocommerce datetime
 # ibmcloud login -r eu-gb
